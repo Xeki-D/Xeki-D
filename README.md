@@ -1,7 +1,7 @@
 ### Hello 👋
 ## Im Emerick, student developer.
 
-![Alt Text](https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif)
+!(https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif)
 <!--
 **Xeki-D/Xeki-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

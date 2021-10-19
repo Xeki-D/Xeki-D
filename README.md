@@ -1,6 +1,6 @@
 ### Hello 👋
 ## Im Emerick, student developer.
-![Alt Text](https://c.tenor.com/OiEJht3qg-EAAAAC/takodachi-ina.gif)
+![Alt Text](https://c.tenor.com/W3spkj8Se7QAAAAi/tako-jam-tako.gif)
 <!--
 **Xeki-D/Xeki-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

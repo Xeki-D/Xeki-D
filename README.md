@@ -1,6 +1,15 @@
 ### Hello 👋
 ## Im Emerick, student developer.
+<ul>
+  <h1>I’m currently learning</h>
+  <li>HTML/CSS</li>
+  <li>PHP</li>
+  <li>JS</li>
+  <li>REACT.JS</li>
+  <li>C#</li>
+</ul>
 <img height="100" src="https://c.tenor.com/W3spkj8Se7QAAAAi/tako-jam-tako.gif">
+
 <!--
 **Xeki-D/Xeki-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

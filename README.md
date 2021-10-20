@@ -1,7 +1,7 @@
 ### Hello 👋
 ## Im Emerick, student developer.
 <ul>
-  <h1>I’m currently learning</h>
+  I’m currently learning
   <li>HTML/CSS</li>
   <li>PHP</li>
   <li>JS</li>

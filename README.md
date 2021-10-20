@@ -1,5 +1,5 @@
 ### Hello 👋
-## Im Emerick, student developer.
+Im Emerick, student developer.
 ## I’m currently learning
   <li>HTML/CSS</li>
   <li>PHP</li>

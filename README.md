@@ -1,13 +1,12 @@
 ### Hello 👋
 ## Im Emerick, student developer.
-<ul>
-##I’m currently learning
+## I’m currently learning
   <li>HTML/CSS</li>
   <li>PHP</li>
   <li>JS</li>
   <li>REACT.JS</li>
   <li>C#</li>
-</ul>
+
 <img height="100" src="https://c.tenor.com/W3spkj8Se7QAAAAi/tako-jam-tako.gif">
 
 <!--

@@ -1,7 +1,6 @@
 ### Hello 👋
 Im Emerick, student developer.
 ## I’m currently learning
-  <li>HTML/CSS</li>
   <li>PHP</li>
   <li>JS</li>
   <li>REACT.JS / NODE.JS</li>

@@ -4,7 +4,7 @@ Im Emerick, student developer.
   <li>PHP</li>
   <li>JS</li>
   <li>REACT.JS / NODE.JS</li>
-  <li>C#</li>
+  <li>C# / ASP.NET</li>
   <li>JAVA</li>
 
 
